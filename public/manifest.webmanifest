@@ -1,0 +1,10 @@
+{
+  "name": "VILE!",
+  "short_name": "VILE!",
+  "description": "A daily film-villain guessing game.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#150c0e",
+  "theme_color": "#150c0e",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

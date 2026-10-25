@@ -1,0 +1,1008 @@
+[
+  {
+    "case_number": 1,
+    "title": "Home Alone",
+    "year": 1990,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My clients were just working through the holidays. They walked into what they thought was an empty house and got a blowtorch, a tarantula and a paint can to the face. Who is the real victim here?"
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "Two burglars who call themselves the Wet Bandits."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "They spent weeks casing every house on the street and then targeted the one where an eight-year-old boy had been left alone."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Christmas family comedy, 1990"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A boy accidentally left behind when his family flies to Paris for Christmas defends his house from two burglars."
+      }
+    ]
+  },
+  {
+    "case_number": 2,
+    "title": "The Shining",
+    "year": 1980,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client was a struggling writer who took a winter job to support his family and suffered a severe case of cabin fever."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A caretaker and would-be novelist who keeps typing the same sentence."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He chased his wife and young son through a snowed-in hotel with an axe and broke down a bathroom door to reach them."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Psychological horror, 1980"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A family spends the winter as caretakers of an isolated mountain hotel, where the father slowly loses his mind."
+      }
+    ]
+  },
+  {
+    "case_number": 3,
+    "title": "The Wizard of Oz",
+    "year": 1939,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client's sister was crushed by a falling house, and the girl responsible walked off wearing the family's shoes. She only wanted them back."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A green-skinned witch who rules the western lands and commands an army of flying monkeys."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "She set a scarecrow on fire, kidnapped a young girl and her dog, and threatened the lives of all her friends."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Fantasy musical, 1939"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A Kansas farm girl swept away by a tornado must reach a great wizard to find her way home."
+      }
+    ]
+  },
+  {
+    "case_number": 4,
+    "title": "Gladiator",
+    "year": 2000,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client only ever wanted his father's love and approval. He was crowned emperor in a moment of grief."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "The jealous son of a Roman emperor who fights in the arena himself."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He smothered his own father, ordered a loyal general executed and had the general's wife and son killed."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Historical epic, 2000"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A betrayed Roman general is sold into slavery and fights as a gladiator to take revenge on the emperor."
+      }
+    ]
+  },
+  {
+    "case_number": 5,
+    "title": "Star Wars",
+    "year": 1977,
+    "aliases": [
+      "Star Wars: Episode IV - A New Hope",
+      "A New Hope",
+      "Star Wars Episode IV"
+    ],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client was enforcing the law against a terrorist group that stole classified military plans. He breathes with difficulty and cannot be expected to have patience."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A masked commander in black armor who serves the Empire."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He choked an officer with his mind for a sarcastic remark and stood by while a whole planet was destroyed."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Space fantasy adventure, 1977"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A farm boy joins a rebellion, an old knight and a smuggler to rescue a princess and destroy a planet-killing space station."
+      }
+    ]
+  },
+  {
+    "case_number": 6,
+    "title": "Beauty and the Beast",
+    "year": 1991,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is the most admired man in town. He only tried to protect the village from a dangerous monster."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A vain hunter who uses antlers in all of his decorating."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He tried to have a woman's father locked in an asylum to force her to marry him, then led a mob to a castle and stabbed its master."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Animated musical, 1991"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A bookish young woman held in a castle by a cursed prince learns to see past his appearance."
+      }
+    ]
+  },
+  {
+    "case_number": 7,
+    "title": "The Terminator",
+    "year": 1984,
+    "aliases": [
+      "Terminator"
+    ],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is a machine following his programming. You cannot put a computer program on trial."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A cyborg assassin sent back in time from the year 2029."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He worked through the phone book killing every woman with the same name, then walked into a police station and killed nearly everyone inside."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Science fiction action, 1984"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A Los Angeles waitress is hunted by a killer robot from the future and protected by a soldier sent back to save her."
+      }
+    ]
+  },
+  {
+    "case_number": 8,
+    "title": "Up",
+    "year": 2009,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is a celebrated explorer who was wrongly called a fraud and has spent his life trying to clear his name."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A famous adventurer living in South America with an airship and a pack of talking dogs."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He set his dogs on an old man and a boy, set a house on fire and tried to cage a rare bird to take home as a trophy."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Animated adventure, 2009"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "An elderly widower ties balloons to his house to fly to South America and finds a young scout stowed away on his porch."
+      }
+    ]
+  },
+  {
+    "case_number": 9,
+    "title": "Die Hard",
+    "year": 1988,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is a businessman with a financial grievance against a corporation. He even let most of the hostages live."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A polished German criminal who poses as a terrorist leader to pull off a $640 million heist."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He executed the company's boss in cold blood and planned to blow up the roof with every hostage on it."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Christmas action thriller, 1988"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "An off-duty New York cop takes on a gang of thieves who seize a Los Angeles skyscraper during a Christmas party."
+      }
+    ]
+  },
+  {
+    "case_number": 10,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client was an overworked, underpaid computer contractor who just needed a little extra money."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A sloppy programmer who sells dinosaur embryos to a rival company."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He shut down every security fence on the island during a storm, setting the predators loose on the guests."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Science fiction adventure, 1993"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A group of experts touring an island theme park of cloned dinosaurs are stranded when the power fails."
+      }
+    ]
+  },
+  {
+    "case_number": 11,
+    "title": "Jaws",
+    "year": 1975,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client was simply feeding in his natural habitat when tourists kept splashing around in his dinner."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A great white shark that will not leave the waters off a summer resort island."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He attacked swimmers on a holiday weekend and sank the boat of the men hunting him."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Summer thriller, 1975"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A police chief, a marine scientist and a fisherman hunt a giant shark terrorizing a beach town."
+      }
+    ]
+  },
+  {
+    "case_number": 12,
+    "title": "Aladdin",
+    "year": 1992,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client served the Sultan loyally for years as his royal adviser. He simply wanted a promotion."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A royal vizier with a snake-headed staff and a sarcastic parrot."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He hypnotized the Sultan, left a young man to die in a cave and later used a genie's wishes to take over the kingdom."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Animated musical, 1992"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A street boy finds a magic lamp and uses the genie inside to pose as a prince and win a princess."
+      }
+    ]
+  },
+  {
+    "case_number": 13,
+    "title": "Psycho",
+    "year": 1960,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is a devoted son who runs a quiet family motel and simply does what Mother tells him."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A shy young motel owner who stuffs birds as a hobby."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "A guest checked into Cabin 1 one rainy night and never checked out."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Horror thriller, 1960"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A secretary who stole $40,000 stops at a remote motel run by a young man and his controlling mother."
+      }
+    ]
+  },
+  {
+    "case_number": 14,
+    "title": "The Devil Wears Prada",
+    "year": 2006,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client simply has high standards. She runs the most important magazine in fashion, and excellence takes discipline."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "The ice-cold editor-in-chief of a powerful fashion magazine."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "She sent her assistant out in a hurricane to find a flight, demanded an unpublished Harry Potter manuscript and treated her staff as disposable."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Workplace comedy, 2006"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "An aspiring journalist takes a job as assistant to a demanding fashion editor in New York."
+      }
+    ]
+  },
+  {
+    "case_number": 15,
+    "title": "Snow White and the Seven Dwarfs",
+    "year": 1937,
+    "aliases": [
+      "Snow White"
+    ],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client asked an honest question of her mirror and was simply told she had been replaced. Wanting to stay the best is not a crime."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A vain queen who disguises herself as an old peddler woman."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "She ordered a huntsman to bring back her stepdaughter's heart, and when that failed she poisoned the girl with an apple."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Animated fairy tale musical, 1937"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A princess hides from her jealous stepmother in a forest cottage with seven miners."
+      }
+    ]
+  },
+  {
+    "case_number": 16,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "aliases": [
+      "Pirates of the Caribbean",
+      "The Curse of the Black Pearl"
+    ],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client lives under a terrible curse. He only wants to return some gold so he can taste food and feel the wind again."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A cursed pirate captain who turns into a skeleton in the moonlight and has a pet monkey."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He led a mutiny, left his own captain marooned on an island, raided a port town and kidnapped the governor's daughter."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Swashbuckling fantasy adventure, 2003"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A blacksmith teams up with an eccentric pirate to rescue the governor's daughter from a crew of undead pirates."
+      }
+    ]
+  },
+  {
+    "case_number": 17,
+    "title": "The Lion King",
+    "year": 1994,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client was passed over for the throne his whole life. He simply stepped up to lead when the kingdom suddenly needed a ruler."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A scheming younger brother with a scar over one eye, backed by a pack of hyenas."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He pushed his own brother off a cliff into a stampede, then told his grieving nephew it was the boy's fault and sent him into exile."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Animated musical, 1994"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A young lion prince flees his kingdom after his father's death and must return to reclaim his place as king."
+      }
+    ]
+  },
+  {
+    "case_number": 18,
+    "title": "Shrek",
+    "year": 2001,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client cleaned up his kingdom and simply wanted to find a suitable queen."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A very short ruler of a spotless kingdom called Duloc."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He tortured a gingerbread man, drove fairy-tale creatures out of their homes and sent someone else to rescue his bride."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Animated fairy tale comedy, 2001"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A grumpy ogre agrees to rescue a princess from a dragon-guarded tower to get his swamp back."
+      }
+    ]
+  },
+  {
+    "case_number": 19,
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client lets fate decide. He even offered some of the people he met a fair coin toss."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A silent hitman with a strange haircut who carries a cattle gun."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He strangled a deputy with handcuffs and left a trail of bodies across Texas chasing a bag of money."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Neo-western crime thriller, 2007"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A hunter who finds drug money in the Texas desert is pursued by a relentless killer while an aging sheriff follows."
+      }
+    ]
+  },
+  {
+    "case_number": 20,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is a misunderstood social thinker. He only wanted to show the city what its good citizens would do when pushed."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A scarred criminal in clown makeup who tells a different story every time about how he got his scars."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He blew up a hospital, burned a mountain of cash and rigged two ferries full of people with explosives."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Superhero crime thriller, 2008"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A masked vigilante, a police lieutenant and a district attorney try to stop an anarchist who throws a city into chaos."
+      }
+    ]
+  },
+  {
+    "case_number": 21,
+    "title": "Mean Girls",
+    "year": 2004,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is the most popular girl in school who kindly welcomed a new student into her group of friends."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "The queen bee of a clique called the Plastics."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "She kept a book of cruel rumors about classmates and teachers and spread it across the whole school."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Teen comedy, 2004"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A teenager raised in Africa starts at an American high school and gets caught up in its most popular clique."
+      }
+    ]
+  },
+  {
+    "case_number": 22,
+    "title": "One Hundred and One Dalmatians",
+    "year": 1961,
+    "aliases": [
+      "101 Dalmatians"
+    ],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is a fashion designer who made a generous offer to buy some puppies and was rudely turned away."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A wealthy socialite with half-black, half-white hair and a passion for fur coats."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "She hired two thugs to steal fifteen puppies, bought eighty-four more, and planned to make them into a coat."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Animated family adventure, 1961"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "Two dogs rescue their stolen puppies, and dozens of others, from a woman who wants their spotted fur."
+      }
+    ]
+  },
+  {
+    "case_number": 23,
+    "title": "The Little Mermaid",
+    "year": 1989,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is a businesswoman who offered a fair contract, and the customer signed it willingly."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A sea witch with octopus tentacles and two pet eels."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "She stole a young girl's voice, disguised herself to marry the girl's prince and tried to take over the ocean."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Animated musical, 1989"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A mermaid princess trades her voice for human legs to win the heart of a prince."
+      }
+    ]
+  },
+  {
+    "case_number": 24,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is a brilliant psychiatrist who volunteered his time to help the FBI catch a serial killer."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A cultured doctor known for his fine taste in wine, his manners and his dinner guests."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He escaped custody by killing two guards and wearing one of their faces as a disguise."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Psychological horror thriller, 1991"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A young FBI trainee seeks help from an imprisoned cannibal psychiatrist to catch another serial killer."
+      }
+    ]
+  },
+  {
+    "case_number": 25,
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "aliases": [
+      "Infinity War",
+      "Avengers Infinity War"
+    ],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is a visionary who saw the universe running out of resources and made a hard choice to save it."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A purple titan collecting six powerful stones in a golden gauntlet."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He sacrificed his own daughter to get one of the stones, then wiped out half of all life with a snap of his fingers."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Superhero action, 2018"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "Earth's heroes and their allies join forces to stop a warlord from gathering six cosmic stones."
+      }
+    ]
+  },
+  {
+    "case_number": 26,
+    "title": "Frozen",
+    "year": 2013,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client fell in love at first sight and kept a whole kingdom running while its queen ran away."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A charming prince, the youngest of thirteen brothers from the Southern Isles."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He refused a dying princess the kiss that could save her, left her to freeze and raised his sword at her sister."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Animated musical, 2013"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A princess sets out to find her sister, whose ice powers have trapped their kingdom in an endless winter."
+      }
+    ]
+  },
+  {
+    "case_number": 27,
+    "title": "Misery",
+    "year": 1990,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client saved a man's life after a car crash in a blizzard and nursed him back to health in her own home. She is his number one fan."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A former nurse living alone in a remote farmhouse in Colorado."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "She kept a famous author prisoner, forced him to rewrite his novel and broke his ankles with a sledgehammer."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Psychological thriller, 1990"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A novelist injured in a crash is rescued by an obsessed fan who refuses to let him leave."
+      }
+    ]
+  },
+  {
+    "case_number": 28,
+    "title": "Get Out",
+    "year": 2017,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is a loving family who welcomed their daughter's boyfriend home for the weekend."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A wealthy suburban family led by a neurosurgeon and a hypnotherapist who stirs her tea."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "They hypnotized a guest, auctioned him to their friends and planned to transplant someone else's brain into his body."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Social thriller horror, 2017"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A young Black man visits his white girlfriend's family estate and uncovers a disturbing secret."
+      }
+    ]
+  },
+  {
+    "case_number": 29,
+    "title": "Toy Story",
+    "year": 1995,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client is a creative boy with an interest in engineering and recycling. He gives old toys a second life."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "The neighbor kid who blows up and rebuilds toys, with a skull on his T-shirt."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He strapped a rocket to a space ranger toy and planned to launch it, and turned other toys into mutant creations."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Animated buddy comedy, 1995"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A cowboy doll jealous of a new spaceman toy must team up with him to get home before their owner moves away."
+      }
+    ]
+  },
+  {
+    "case_number": 30,
+    "title": "Titanic",
+    "year": 1997,
+    "aliases": [],
+    "clues": [
+      {
+        "position": 1,
+        "kind": "villain_defense",
+        "body": "My client gave his fiancee a priceless diamond, and she betrayed him with a penniless artist she met on the trip."
+      },
+      {
+        "position": 2,
+        "kind": "villain_identity",
+        "body": "A rich, jealous steel heir engaged to a young woman from a struggling upper-class family."
+      },
+      {
+        "position": 3,
+        "kind": "prosecution",
+        "body": "He framed a man for theft, chased the couple through a sinking ship firing a pistol and used a lost child to get a seat on a lifeboat."
+      },
+      {
+        "position": 4,
+        "kind": "genre_year",
+        "body": "Romantic disaster epic, 1997"
+      },
+      {
+        "position": 5,
+        "kind": "plot_summary",
+        "body": "A wealthy young woman falls for a poor artist aboard a famous ocean liner on its doomed first voyage."
+      }
+    ]
+  }
+]

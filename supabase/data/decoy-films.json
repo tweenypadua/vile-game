@@ -1,0 +1,446 @@
+[
+  {
+    "title": "The Godfather",
+    "year": 1972
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999
+  },
+  {
+    "title": "Inception",
+    "year": 2010
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999
+  },
+  {
+    "title": "Goodfellas",
+    "year": 1990
+  },
+  {
+    "title": "Casablanca",
+    "year": 1942
+  },
+  {
+    "title": "Citizen Kane",
+    "year": 1941
+  },
+  {
+    "title": "Vertigo",
+    "year": 1958
+  },
+  {
+    "title": "Rear Window",
+    "year": 1954
+  },
+  {
+    "title": "The Birds",
+    "year": 1963
+  },
+  {
+    "title": "Alien",
+    "year": 1979
+  },
+  {
+    "title": "Aliens",
+    "year": 1986
+  },
+  {
+    "title": "Predator",
+    "year": 1987
+  },
+  {
+    "title": "RoboCop",
+    "year": 1987
+  },
+  {
+    "title": "Back to the Future",
+    "year": 1985
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "year": 1981
+  },
+  {
+    "title": "Gremlins",
+    "year": 1984
+  },
+  {
+    "title": "Ghostbusters",
+    "year": 1984
+  },
+  {
+    "title": "The Goonies",
+    "year": 1985
+  },
+  {
+    "title": "Batman",
+    "year": 1989
+  },
+  {
+    "title": "Batman Returns",
+    "year": 1992
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991
+  },
+  {
+    "title": "Scream",
+    "year": 1996
+  },
+  {
+    "title": "Se7en",
+    "year": 1995
+  },
+  {
+    "title": "Fargo",
+    "year": 1996
+  },
+  {
+    "title": "The Usual Suspects",
+    "year": 1995
+  },
+  {
+    "title": "Heat",
+    "year": 1995
+  },
+  {
+    "title": "Speed",
+    "year": 1994
+  },
+  {
+    "title": "Mrs. Doubtfire",
+    "year": 1993
+  },
+  {
+    "title": "Hocus Pocus",
+    "year": 1993
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "year": 1993
+  },
+  {
+    "title": "Mulan",
+    "year": 1998
+  },
+  {
+    "title": "Hercules",
+    "year": 1997
+  },
+  {
+    "title": "Tarzan",
+    "year": 1999
+  },
+  {
+    "title": "The Incredibles",
+    "year": 2004
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": 2001
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003
+  },
+  {
+    "title": "Ratatouille",
+    "year": 2007
+  },
+  {
+    "title": "WALL-E",
+    "year": 2008
+  },
+  {
+    "title": "Coco",
+    "year": 2017
+  },
+  {
+    "title": "Moana",
+    "year": 2016
+  },
+  {
+    "title": "Tangled",
+    "year": 2010
+  },
+  {
+    "title": "Zootopia",
+    "year": 2016
+  },
+  {
+    "title": "Despicable Me",
+    "year": 2010
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001
+  },
+  {
+    "title": "Spider-Man",
+    "year": 2002
+  },
+  {
+    "title": "Iron Man",
+    "year": 2008
+  },
+  {
+    "title": "The Avengers",
+    "year": 2012
+  },
+  {
+    "title": "Black Panther",
+    "year": 2018
+  },
+  {
+    "title": "Joker",
+    "year": 2019
+  },
+  {
+    "title": "Skyfall",
+    "year": 2012
+  },
+  {
+    "title": "Casino Royale",
+    "year": 2006
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003
+  },
+  {
+    "title": "Parasite",
+    "year": 2019
+  },
+  {
+    "title": "Us",
+    "year": 2019
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": 1999
+  },
+  {
+    "title": "Halloween",
+    "year": 1978
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "year": 1984
+  },
+  {
+    "title": "Carrie",
+    "year": 1976
+  },
+  {
+    "title": "The Exorcist",
+    "year": 1973
+  },
+  {
+    "title": "Fatal Attraction",
+    "year": 1987
+  },
+  {
+    "title": "Gone Girl",
+    "year": 2014
+  },
+  {
+    "title": "Whiplash",
+    "year": 2014
+  },
+  {
+    "title": "Legally Blonde",
+    "year": 2001
+  },
+  {
+    "title": "Clueless",
+    "year": 1995
+  },
+  {
+    "title": "Cinderella",
+    "year": 1950
+  },
+  {
+    "title": "Sleeping Beauty",
+    "year": 1959
+  },
+  {
+    "title": "Pinocchio",
+    "year": 1940
+  },
+  {
+    "title": "Peter Pan",
+    "year": 1953
+  },
+  {
+    "title": "Bambi",
+    "year": 1942
+  },
+  {
+    "title": "Who Framed Roger Rabbit",
+    "year": 1988
+  },
+  {
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": 1971
+  },
+  {
+    "title": "Mary Poppins",
+    "year": 1964
+  },
+  {
+    "title": "The Princess Bride",
+    "year": 1987
+  },
+  {
+    "title": "Labyrinth",
+    "year": 1986
+  },
+  {
+    "title": "Jumanji",
+    "year": 1995
+  },
+  {
+    "title": "Men in Black",
+    "year": 1997
+  },
+  {
+    "title": "Independence Day",
+    "year": 1996
+  },
+  {
+    "title": "Armageddon",
+    "year": 1998
+  },
+  {
+    "title": "Mission: Impossible",
+    "year": 1996
+  },
+  {
+    "title": "Top Gun",
+    "year": 1986
+  },
+  {
+    "title": "Rocky",
+    "year": 1976
+  },
+  {
+    "title": "Taxi Driver",
+    "year": 1976
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": 1979
+  },
+  {
+    "title": "The Departed",
+    "year": 2006
+  },
+  {
+    "title": "There Will Be Blood",
+    "year": 2007
+  },
+  {
+    "title": "Inglourious Basterds",
+    "year": 2009
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015
+  },
+  {
+    "title": "The Hunger Games",
+    "year": 2012
+  },
+  {
+    "title": "Twilight",
+    "year": 2008
+  },
+  {
+    "title": "Frozen II",
+    "year": 2019
+  },
+  {
+    "title": "Toy Story 2",
+    "year": 1999
+  },
+  {
+    "title": "Toy Story 3",
+    "year": 2010
+  },
+  {
+    "title": "Shrek 2",
+    "year": 2004
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "year": 2012
+  },
+  {
+    "title": "Batman Begins",
+    "year": 2005
+  },
+  {
+    "title": "Jaws 2",
+    "year": 1978
+  },
+  {
+    "title": "Jurassic World",
+    "year": 2015
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "year": 1980
+  },
+  {
+    "title": "Return of the Jedi",
+    "year": 1983
+  },
+  {
+    "title": "Home Alone 2: Lost in New York",
+    "year": 1992
+  },
+  {
+    "title": "Die Hard with a Vengeance",
+    "year": 1995
+  },
+  {
+    "title": "Hannibal",
+    "year": 2001
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006
+  }
+]
